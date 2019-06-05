@@ -1,0 +1,11 @@
+import java.util.*;
+
+public class Room{
+    char description;
+    List<Item> items; //keys and books
+    List<Creature> creature;
+    Door west_Door;
+    Door east_Door;
+    Door north_Door;
+    Door south_Door;
+}

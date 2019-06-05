@@ -1,0 +1,3 @@
+public class Creatures{
+	String description_of_creature;
+}

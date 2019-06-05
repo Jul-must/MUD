@@ -1,0 +1,4 @@
+public class Creature{
+	String name;
+	String descriptionOfCreature;
+}

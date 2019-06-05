@@ -1,0 +1,16 @@
+import java.util.*;
+
+public class Item {
+	int volume;
+	String name;
+
+	public Item(int volume)	
+	{
+		this.volume = volume;
+	}
+
+	public int GetVolume()
+	{
+		return volume;
+	}
+}

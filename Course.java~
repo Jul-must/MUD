@@ -1,0 +1,12 @@
+public class Course{
+
+	int HP;
+	String bookName; 
+	String name;
+	
+}
+
+public int GetHP()
+{
+	return this.HP;
+}
